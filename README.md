@@ -1,5 +1,5 @@
-# dotfiles
-Arch Linux daily driver desktop 
+# Arch Linux
+Hyprland based daily driver desktop with (mostly) full vim navigation, supporting a 3840x1080 ultrawide screen and dual 3840x2160 tv display, custom trackpad gestures, workflow hotkeys, and an extremely satisfying terminal.
 
 ![image](https://github.com/ggneilc/dotfiles/assets/123151056/c149af94-2e5a-4d7c-bce6-bbec919c38d1)
 
